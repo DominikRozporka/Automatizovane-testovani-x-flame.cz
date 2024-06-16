@@ -1,0 +1,2 @@
+2 neviditelný odkazy v zápatí stránek: href="https://www.x-flame.cz/cz-texty-1.html" a href="https://www.x-flame.cz/cz-texty-2.html"
+Po kliknutí na email hrdlicka@x-flame.cz na stránce Kontaktní informace se otevøe stránka s chybou "Neexistuje www3/kontakt/hrdlicka@x-flame.cz [cz]". Odkaz stránky s chybnì implementovaným emailem: https://www.x-flame.cz/cz-sekce-kontaktni_informace.html
