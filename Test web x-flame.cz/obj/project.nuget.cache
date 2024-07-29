@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GqFGmIj3CBV1iNB48RmJ0O1yybZfyd+FpJfczqe+3953M3oGHZn7DY8AZd3y3W6vFxMr538PGSvKguQMRd4xHw==",
+  "dgSpecHash": "0b7kEkMVrAX3tCXjEikaeQKS82DYVlX8WymZ5YRTAkUdwzU1NnpUA7k4blCBQqB+9eIYqbCALQJ5dc+hPmNOKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dominik Rozporka\\Dropbox\\Programming\\Csharp\\Test web x-flame.cz\\Test web x-flame.cz\\Test web x-flame.cz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dominik Rozporka\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dominik Rozporka\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Dominik Rozporka\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
     "C:\\Users\\Dominik Rozporka\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
     "C:\\Users\\Dominik Rozporka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

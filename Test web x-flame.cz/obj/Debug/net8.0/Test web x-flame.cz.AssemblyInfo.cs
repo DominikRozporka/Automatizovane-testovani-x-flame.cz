@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test web x-flame.cz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+980618009e6b208bc7df37200c47a4e83e00f112")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d19bfb1471c74d121b93cd49b6e3653adc2b543e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test web x-flame.cz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test web x-flame.cz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
